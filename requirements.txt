@@ -6,3 +6,4 @@ passlib
 pydantic
 python-multipart  
 joblib
+psycopg2
