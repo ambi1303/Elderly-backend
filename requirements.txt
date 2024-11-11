@@ -5,3 +5,4 @@ jose
 passlib
 pydantic
 python-multipart  
+joblib
